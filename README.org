@@ -5,7 +5,7 @@
 - [[https://github.com/davidneu/clj-mvt][clj-mvt]]
 - [[https://github.com/davidneu/clj-mvt-el][clj-mvt-el]]
 - [[https://github.com/davidneu/clj-mvt-eg][clj-mvt-eg]]
-- clj-mvt-docker
+- [[https://github.com/davidneu/clj-mvt-docker][clj-mvt-docker]]
 - clj-mvt-eg-docker
 - clj-mvt-eg-docker-h2
 - clj-mvt-eg-docker-pg
